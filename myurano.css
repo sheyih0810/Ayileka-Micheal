@@ -1,0 +1,236 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.menu {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 39px;
+  margin-right: 255px;
+  margin-left: 255px;
+}
+.menu img {
+  height: 18px;
+}
+.menu button {
+  background-color: rgb(78, 78, 232);
+  border: none;
+  color: white;
+  padding: 13px 36px;
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 18px;
+}
+.main1 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: left;
+}
+.iphone1 img {
+  width: 80%;
+  height: 90%;
+  margin-top: 100px;
+}
+.main11 {
+  padding-top: 245px;
+  object-fit: contain;
+}
+.main11 h1 {
+  justify-content: left;
+  padding-bottom: 20px;
+}
+.main11 p {
+  font-family: PT + Serif;
+  font-size: 22px;
+  padding-bottom: 30px;
+}
+.main11 img {
+  padding-right: 20px;
+}
+.Mother2 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+.Mother2 h4 {
+  font-family: Montserrat;
+  font-size: 36px;
+  color: #0b162b;
+  padding-bottom: 20px;
+}
+.Mother2 p {
+  font-family: PT + Serif;
+  font-size: 18px;
+  padding-top: 30px;
+  color: #0b162b;
+}
+.Mother3 {
+  background-color: #0b162b;
+  padding: 150px 255px 150px;
+  background-attachment: fixed;
+}
+.Mother3 h1 {
+  font-family: Montserrat;
+  color: #ffffff;
+  font-size: 48px;
+  padding-bottom: 20px;
+}
+.Mother3 p {
+  font-family: PT + Serif;
+  font-size: 18px;
+  color: #ffffff;
+  opacity: 50%;
+  padding-bottom: 30px;
+}
+.Mother3 button {
+  background-color: rgb(78, 78, 232);
+  border: none;
+  color: white;
+  padding: 13px 36px;
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 18px;
+  width: 331px;
+}
+.Mother4 {
+  background-image: url(./Images/Video.png);
+  height: 798px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: auto;
+  /* -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+}
+.son4 {
+  padding-top: 558px;
+  padding-left: 255px;
+}
+.son4 h1 {
+  font-family: Montserrat;
+  font-size: 48px;
+  color: #ffffff;
+  padding-bottom: 20px;
+}
+.son4 p {
+  font-family: PT + Serif;
+  font-size: 18px;
+  color: #ffffff;
+  opacity: 50%;
+}
+.Mother5 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.Lor1 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.Lor2 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.iphone2 img {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  width: 90%;
+}
+.Mom {
+  padding-top: 238px;
+  /* padding-left: 150px; */
+}
+.Mom img {
+  width: 48px;
+  padding-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.Mom h4 {
+  font-family: Montserrat;
+  font-size: 36px;
+  color: #0b162b;
+  align-content: center;
+  padding-bottom: 20px;
+}
+.Mom p {
+  font-family: PT + Serif;
+  font-size: 18px;
+  align-content: center;
+  color: #0b162b;
+  opacity: 50%;
+  padding-bottom: 150px;
+}
+.dlor1 {
+  padding-right: 150px;
+}
+.dlor3 {
+  padding-right: 150px;
+}
+.Mother6 {
+  background-color: #0b162b;
+}
+.son6 {
+  padding-top: 150px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+.son6 h1 {
+  font-family: Montserrat;
+  font-size: 48px;
+  color: #ffffff;
+}
+.son6 p {
+  font-family: PT + Serif;
+  font-size: 22px;
+  color: #ffffff;
+  padding-bottom: 30px;
+}
+.son6 button {
+  background-color: rgb(78, 78, 232);
+  border: none;
+  color: white;
+  padding: 13px 36px;
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 18px;
+  width: 400px;
+}
+.Mother6 img {
+  padding-left: 255px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.Links6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 150px;
+  /* padding-left: 625px; */
+  /* row-gap: 15px; */
+  text-align: center;
+
+}
+
+.kid6 {
+  padding-right: 154px;
+  text-align: center;
+  
+}
+.kid7 {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap:5px;
+ /* * padding-top: 50px; */
+  /* margin: auto; */
+}
+.kid6 a {
+  color: #ffffff;
+  text-decoration: none;
+  opacity: 50%;
+  
+}
